@@ -1,2 +1,4 @@
 sudo apt update
 sudo apt install php libapache2-mod-php
+
+https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-20-04
