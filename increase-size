@@ -1,0 +1,4 @@
+cd /Applications/VirtualBox.app/Contents/Resources/VirtualBoxVM.app/Contents/MacOS/
+
+
+VBoxManage modifyhd --resize 50000 /Users/CEO/VirtualBox\ VMs/ubuntu\ Clone/Snapshots/\{398024bc-32c2-441d-9a0a-48b3f66e2c06\}.vdi 
